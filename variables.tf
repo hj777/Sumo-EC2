@@ -2,7 +2,7 @@
 
 variable "name" {
   description 	= "The name for your EC2 security group"
-  default 	= "test"
+  default 	= "enter_a_name_for_EC2_security_group"
 }
 
 variable "key_name" {

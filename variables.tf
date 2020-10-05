@@ -7,7 +7,7 @@ variable "name" {
 
 variable "key_name" {
   description 	= "The name for the AWS_key_pair"
-  default 	= "htestkey"
+  default 	= "enter_a_name_for_AWS_key_pair"
 }
 
 variable "image_id" {

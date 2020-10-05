@@ -19,6 +19,6 @@ variable "image_id" {
 
 variable "token_id" {
   description 	= "Sumo Logic Installation Token"
-  default 	= "U1VNTzZRYjZ2TElIV0V4T3k4cW1CN3AxeXE5SWdWcm1odHRwczovL2NvbGxlY3RvcnMuYXUuc3Vtb2xvZ2ljLmNvbQ=="
+  default 	= "your_sumologic_token_id"
 }
 
